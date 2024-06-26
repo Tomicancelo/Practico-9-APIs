@@ -1,0 +1,6 @@
+@Practico_9_APIs_HostAddress = http://localhost:5175
+
+GET {{Practico_9_APIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
